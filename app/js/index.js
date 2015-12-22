@@ -1,5 +1,1 @@
-require('./depend.js');
-
-function showName(){
-	printName();
-}
+document.write(require('./content.js'));
