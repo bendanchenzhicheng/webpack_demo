@@ -1,2 +1,2 @@
-1.webpack --watch
-2.webpack-dev-server
+1.  webpack --watch
+1.  webpack-dev-server
