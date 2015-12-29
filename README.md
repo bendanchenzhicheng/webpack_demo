@@ -1,2 +1,2 @@
 1.  webpack --watch
-1.  webpack-dev-server
+1.  npm run dev
